@@ -22,8 +22,22 @@ As the simulation progresses, the high efficiency creatures go extinct and speed
 ![image](https://user-images.githubusercontent.com/87293665/183172156-20c90846-51a9-406c-b04e-b99d24f6254b.png)
 
 # HOW TO RUN
-1. Import files into a new project into Visual Studio
 
-2. Add SFML paths to project properties - https://www.sfml-dev.org/tutorials/2.5/start-vc.php
+1. Download code
 
+2. In SFML-Evolution-Simulator-main\Release run Evolution_Sim.exe
+
+## OR (for Visual Studio 2017)##
+
+1. Download code
+
+2. Create empty project and add source files to "Source Files"
+
+3. Add SFML paths to project properties - https://www.sfml-dev.org/tutorials/2.5/start-vc.php
+
+# Features
+### UNFINISHED
+- [ ] Realtime display of food and creature stats
+- [ ] Creature life-span attribute
+- [ ] Independent genernations
 
