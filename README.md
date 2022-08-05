@@ -27,7 +27,7 @@ As the simulation progresses, the high efficiency creatures go extinct and speed
 
 2. In SFML-Evolution-Simulator-main\Release run Evolution_Sim.exe
 
-## OR (for Visual Studio 2017)##
+## OR (for Visual Studio 2017)
 
 1. Download code
 
@@ -35,8 +35,8 @@ As the simulation progresses, the high efficiency creatures go extinct and speed
 
 3. Add SFML paths to project properties - https://www.sfml-dev.org/tutorials/2.5/start-vc.php
 
-# Features
-### UNFINISHED
+# FEATURES
+###### UNFINISHED
 - [ ] Realtime display of food and creature stats
 - [ ] Creature life-span attribute
 - [ ] Independent genernations
