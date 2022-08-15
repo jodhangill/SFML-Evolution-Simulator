@@ -86,6 +86,12 @@ int main()
 
 	//sprite------------------------
 	Creature cr2(sf::Vector2f(1770, 400), 1, 1);//test creature
+	Creature cr3(sf::Vector2f(rand() % 1920 + 1, rand() % 1080 + 1), 1.2, 1.2);//test creature
+	Creature cr4(sf::Vector2f(rand() % 1920 + 1, rand() % 1080 + 1), 1.3, 1.3);//test creature
+	Creature cr5(sf::Vector2f(rand() % 1920 + 1, rand() % 1080 + 1), 1.4, 1.4);//test creature
+	Creature cr6(sf::Vector2f(rand() % 1920 + 1, rand() % 1080 + 1), 1.7, 1.7);//test creature
+	Creature cr7(sf::Vector2f(rand() % 1920 + 1, rand() % 1080 + 1), 1.8, 1.8);//test creature
+	Creature cr8(sf::Vector2f(rand() % 1920 + 1, rand() % 1080 + 1), 1.9, 1.9);//test creature
 
 
 	sf::RectangleShape line;
@@ -95,13 +101,12 @@ int main()
 
 	//create first  generation
 	ctrL.addCtr(cr2);
-	ctrL.addCtr(cr2.reproduce());
-	ctrL.addCtr(cr2.reproduce());
-	ctrL.addCtr(cr2.reproduce());
-	ctrL.addCtr(cr2.reproduce());
-	ctrL.addCtr(cr2.reproduce());
-	ctrL.addCtr(cr2.reproduce());
-	ctrL.addCtr(cr2.reproduce());
+	ctrL.addCtr(cr3);
+	ctrL.addCtr(cr4);
+	ctrL.addCtr(cr5);
+	ctrL.addCtr(cr6);
+	ctrL.addCtr(cr7);
+	ctrL.addCtr(cr8);
 
 	
 
