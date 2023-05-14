@@ -16,7 +16,7 @@ Once all the food has been eaten, a new generation is created from the current p
 As the simulation progresses, the high efficiency pods go extinct and speed proves the be the prevailing attribute. This is a greedy form of evolution.
   
 
-# SREENSHOTS
+# SCREENSHOTS
 ![image](https://user-images.githubusercontent.com/87293665/185724658-f703f852-ffad-4f8a-a7a3-3de82fdbc7b9.png)
 
 ![image](https://user-images.githubusercontent.com/87293665/185724662-9fa5f6ac-8f46-4b0b-98db-0e1571af92b9.png)
